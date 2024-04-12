@@ -20,9 +20,7 @@
 
 title: Spiral Architect
 email: alex.tenghamn@gmail.com
-description:
-A junior dev in a senior body.
-Topics I never get tired of thinking about includes backend development, Black Sabbath, Malmö FF and software architecture.
+description: A junior dev in a senior body. Topics I never get tired of thinking about includes backend development, Black Sabbath, Malmö FF and software architecture.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: atenghamn
