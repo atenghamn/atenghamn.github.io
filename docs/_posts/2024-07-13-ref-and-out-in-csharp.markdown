@@ -92,6 +92,7 @@ void OutStringMethod(out string text)
 Console.WriteLine($"Before calling method: {anotherString}");
 OutStringMethod(out anotherString);
 Console.WriteLine($"After calling the method: {anotherString}");
+
 ```
 
 However our value must have a value before beeing returned. 
@@ -117,6 +118,7 @@ void ThisDoWork(out int number)
     number++;
 }
 Console.WriteLine($"This is now 2: {unIntializedValue}");
+
 ```
 
-This was a pretty short explanation of the workings of the ref and out keywords. Hope you can find some use for it :) 
+This was a pretty short explanation of the workings of the ref and out keywords. Hope you can find some use for it.
