@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "The ref and out keywords in C#"
-date:   2024-07-24 18:05:00 +0200
+title: "The ref and out keywords in C#"
+date: 2024-07-24 18:05:00 +0200
 categories: c#
 ---
 Recently I've played around with Rust a bit after having listend to a really inspiring talk by 
