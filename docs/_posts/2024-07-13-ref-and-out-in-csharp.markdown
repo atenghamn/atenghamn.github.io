@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The ref and out keywords in C#"
-date: 2024-07-24 18:05:00 +0200
+date: 2024-07-13 18:05:00 +0200
 categories: csharp
 ---
 
