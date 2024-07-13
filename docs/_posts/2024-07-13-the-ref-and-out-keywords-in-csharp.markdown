@@ -2,7 +2,7 @@
 layout: post
 title: "The ref and out keywords in C#"
 date: 2024-07-24 18:05:00 +0200
-categories: c#
+categories: csharp
 ---
 Recently I've played around with Rust a bit after having listend to a really inspiring talk by 
 [Sebastian Nilsson](https://sebnilsson.com/) on Rust. One of the things that sets Rust apart is the concept of ownership. I dont know enough to write about Rust but I thought that It can be nice to have a short explanation of the ref and out keywords in C# that have some similiarities with the ownersship concept. 
