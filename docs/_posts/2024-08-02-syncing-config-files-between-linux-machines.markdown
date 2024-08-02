@@ -68,6 +68,24 @@ This moved it to the appropriate folder and made it executable.
 The next step was to create a systemd service. If you are new to systemd processes It's worth to read up on [it](https://www.linux.com/training-tutorials/understanding-and-using-systemd/). 
 
 ```bash
+[Unit]
+Description=Sync Configs at reboot
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/bin/bash /usr/local/bin/sync_configs.sh
+Restart=on-failure
+User=my-user-name
+
+[Install]
+WantedBy=default.target
+```
+I think it's pretty self explanatory where the first section is a description of the other parts. The second part set the type to 'simple' meaning it will start immediately and doesn't fork any new processes and if it the bash script returns a failure it should restart. 
+The install section says that it should start when the system is at default run level, in other words during the normal system boot processes. 
+
+The last step was to enable, start and check the status (to see so everything was working) of the service.
+```bash
 sudo systemctl enable sync-configs.service
 sudo systemctl start sync-configs.service
 sudo systemctl status sync-configs.service
