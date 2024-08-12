@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Creating planners in Semantic Kernel"
-date: 2024-08-12 15:21:00 +0200
+date: 2024-08-12 10:00:00 +0200
 categories: ai, c#, semantickernel
 ---
 
