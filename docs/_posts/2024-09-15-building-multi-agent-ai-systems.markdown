@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Building multi agent ai systems with Semantic Kernel"
+title: "Building multi agent AI systems with Semantic Kernel"
 date: 2024-09-15 11:50:00 +0200
 categories: ai, c#, semantikernel, llm
 ---
