@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stack and Queueu data structures"
+title: "Stack and Queue data structures"
 date: 2024-11-02 11:40:00 +0200
 categories: datastructures
 ---
