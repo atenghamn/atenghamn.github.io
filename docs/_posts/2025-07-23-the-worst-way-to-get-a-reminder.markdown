@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The worst way to get a reminder"
-date: 2025-07-23 11:00:00 +0200
+date: 2025-07-23 11:00:00 +0100
 categories: C#, azure
 ---
 
