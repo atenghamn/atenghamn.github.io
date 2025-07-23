@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "The worst way to get a reminder"
-date: 2025-07-23 11:00:00 +0100
+date: 2025-07-23 10:00:00 +0100
 categories: C#, azure
 ---
 
 Ah vaccation, the perfect time to build something completely useless and impractical! 
 
-So the situation is that I recently bought a some new plants for indoor use and planted some seeds in my garden. All of this is great but whats the point of buying something if I can't build something to go along with it ;) 
+So the situation is that I recently bought a some new plants for indoor use and planted some seeds in my garden. All of this is great but whats the point of buying something if I can't build something to go along with it 😉
 
 I've previously built a small soil moisture sensor that I use to monitor the soil moisture for indoor plants. It works but now I needed something that I could leave outside and survive the weather. I could of course have but a ESP-32 in a waterproof box but I already know how to do that so whats the fun in that?
 
@@ -35,6 +35,7 @@ public class TimeFunc(ILoggerFactory loggerFactory)
 The next step was sending a reminder email (I now this is so stupid, there are a hundred ways to do this better...), I previously used SendGrid to send emails so I decided to go with that. BUT.... Appearantly SendGrid didn't have a free option (apart from a 60 day trial) so that went to shit. After some searching I found out that Azure has a service called Azure Communication Services that includes email capabilities and has a free tier. So I decided to give that a try.
 
 I created a new Azure Communication Services resource in the Azure portal and obtained the connection string. Then I updated my Azure Function to use the Azure Communication Services SDK to send the email. The updated code looks like this:
+
 ```csharp
 public class TimeFunc(ILoggerFactory loggerFactory)
 {
