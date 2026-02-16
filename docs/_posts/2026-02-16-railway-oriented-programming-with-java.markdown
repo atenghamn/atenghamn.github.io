@@ -1,10 +1,10 @@
 
 ---
-
 layout: post
 title: "Railway oriented programming with Java"
 date: 2026-02-16 22:00:00 +0100
 categories: Java, Patterns
+
 ---
 
 The term railway oriented programming have been around a while and you can (and should) check it out since there's a lot of great resources
