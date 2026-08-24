@@ -19,18 +19,34 @@ This is my fourth year as a develper and I don't think I ever felt this passiona
 
 Finally some similiraties and dissemblies between the different fields: 
 
-Douche comment in software development: "I use arch btw"
-Douche comment in photography: "I use a Leica btw"
-Douche comment in teaching: "I used to teach at university btw"
+--- 
 
-Reality in software development: "These requirements are really unclear!?"
-Reality in photography: "These requirements are fucking impossible to meet without a proper budget!!"
-Reality in teaching: "These requirements are impossible to meet regardless of budget!!"
+- Douche comment in software development: "I use arch btw"
 
-Perk of beeing in software development: "I can work from home, I can work from anywhere in the world"
-Perk of beeing in photography: "Nobody excpets anything from me, I'm a creative..."
-Perk of beeing in teaching: "June, July and August..." 
+- Douche comment in photography: "I use a Leica btw"
 
-Downside of beeing in software development: "Hey, you work with computers, can you have a look at my printer?"
-Downside of beeing in photography: "Hey, you're a photographer, which camera should I buy?"
-Downside of beeing in teaching: "Hey, you're a teacher, let me tell you everything that's wrong with the education system even tough I haven't set foot in a school in twenty years?"
+- Douche comment in teaching: "I used to teach at university btw"
+
+--- 
+
+- Reality in software development: "These requirements are really unclear!?"
+
+- Reality in photography: "These requirements are fucking impossible to meet without a proper budget!!"
+
+- Reality in teaching: "These requirements are impossible to meet regardless of budget!!"
+
+--- 
+
+- Perk of beeing in software development: "I can work from home, I can work from anywhere in the world"
+
+- Perk of beeing in photography: "Nobody excpets anything from me, I'm a creative..."
+
+- Perk of beeing in teaching: "June, July and August..." 
+
+--- 
+
+- Downside of beeing in software development: "Hey, you work with computers, can you have a look at my printer?"
+
+- Downside of beeing in photography: "Hey, you're a photographer, which camera should I buy?"
+
+- Downside of beeing in teaching: "Hey, you're a teacher, let me tell you everything that's wrong with the education system even tough I haven't set foot in a school in twenty years?"
